@@ -1,0 +1,23 @@
+# separate-maps.md feedback
+Pull request title: 0.5/0.5
+Summary: 1/1
+Tech details: 1.5/1.5
+Correctness: 1.5/1.5
+Performance: .5/1.5
+- Which files did you test with?
+- How many threads did you test with?
+-No performance information including results
+Clarity of exposition: 1/1.5
+-No Clear explanation
+
+# concurrent-hashmap.md feedback
+Pull request title: 0.5/0.5
+Summary: 1/1
+Tech details: 1.5/1.5
+Correctness: 1.5/1.5
+Performance: .5/1.5
+- Which files did you test with?
+- How many threads did you test with?
+-No performance information including results
+Clarity of exposition: 1/1.5
+-No Clear explanation
