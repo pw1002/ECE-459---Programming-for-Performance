@@ -1,0 +1,101 @@
+#V2
+deps-available oad
+deps-available 0ad
+ld
+deps-available 0ad
+ld
+deps-available 0ad
+ld
+deps-available 0ad
+ld
+deps-available 4g8
+ld
+deps-available 4g8
+deps-available 0ad-data-common
+ld
+deps-available 4g8
+ld
+deps-available 0ad-data-common
+ld
+deps-available 0ad-data-common
+ld
+deps-available 0ad-data-common
+deps-available 4g8
+deps-available 0ad-data-common
+ld
+deps-available 0ad-data-common
+ld
+deps-available asdf
+ld
+deps-available 389-ds-base
+ld
+deps-available 389-ds-base
+transitive-dep-solution libzydis-dev
+ld
+transitive-dep-solution libzydis-dev
+ld
+transitive-dep-solution libzydis-dev
+ld
+transitive-dep-solution libzydis-dev
+info libzydis-dev
+ld
+transitive-dep-solution libzydis-dev
+ld
+transitive-dep-solution 0ad-data-common
+info fonts-dejavu-core
+ld
+transitive-dep-solution 0ad-data-common
+ld
+how-to-install 3depict
+how-to-install ocaml-mode
+ld
+how-to-install 3depict
+load-csv data/packages.csv
+enq-verify bash
+load-csv data/packages.csv
+enq-verify bash
+quit
+load-csv data/packages.csv
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify bash
+quit
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify libc6 28
+enq-verify 0ad
+enq-verify bash
+quit
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify bash
+quit
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
+enq-verify bash
+enq-verify 0ad
+load-csv data/packages.csv
+enq-verify bash
+enq-verify 0ad
+enq-verify libc6 28
+quit
