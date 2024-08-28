@@ -1,0 +1,6 @@
+Title: 1.0/1.0
+Summary: 3.0/3.0
+Tech Details: 8.0/8.0
+Correctness: 4.0/4.0
+Performance: 4.0/4.0
+Total: 20.0/20.0

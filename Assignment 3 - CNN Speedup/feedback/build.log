@@ -1,0 +1,21 @@
+   Compiling proc-macro2 v1.0.19
+   Compiling byteorder v1.3.4
+   Compiling memchr v2.3.3
+   Compiling unicode-xid v0.2.1
+   Compiling serde v1.0.114
+   Compiling syn v1.0.36
+   Compiling ryu v1.0.5
+   Compiling bitflags v1.2.1
+   Compiling cuda-sys v0.2.0
+   Compiling lazy_static v1.4.0
+   Compiling lab3 v0.1.0 (/home/v236shar/ECE459/ece459-a3grading-w24/ece459w24/tograde)
+   Compiling rustacuda_core v0.1.2
+   Compiling itoa v0.4.6
+   Compiling regex-automata v0.1.9
+   Compiling csv-core v0.1.10
+   Compiling quote v1.0.7
+   Compiling rustacuda_derive v0.1.2
+   Compiling rustacuda v0.1.2
+   Compiling bstr v0.2.13
+   Compiling csv v1.1.3
+    Finished release [optimized] target(s) in 3.46s

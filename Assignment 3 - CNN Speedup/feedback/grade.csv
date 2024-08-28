@@ -1,0 +1,2 @@
+Student Name,Build/Correctness Mark,Test Marks,Readme Marks,Total,Comments,
+p66wu,35,40,20,95,"-5 on correctness because part of output layer computation implemented on CPU, instead of reducing dimensionality in CUDA",
